@@ -29,4 +29,4 @@ def update_label():
 update_label()
 window.mainloop()
 
-# ==============The end by github.com/kalebu ==========
+# ============================https://github.com/yashjadhav14==========================
